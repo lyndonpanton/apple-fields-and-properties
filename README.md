@@ -14,7 +14,6 @@ n/a
 
 * Windows 10
 + Microsoft Visual Studio
-+ Unity
 
 ### Installing
 

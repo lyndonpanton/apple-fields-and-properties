@@ -4,6 +4,7 @@ Exercise 4 for the "C# Class Development" course of the "C# Programming for Unit
 ## Description
 
 Implement the fields and properties for the Apple class from the previous exercise
+[Apple class diagram](./apple_class_diagram.png)
 
 ## Getting Started
 
